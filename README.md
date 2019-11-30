@@ -1,14 +1,14 @@
 # Checkpingserver
 
-#Description
+# Description
 
 This program used for check ping of server(s) then play a sound.
 
-#Requirement
+# Requirement
 
 Python3, keyboard library
 
-#Usage
+# Usage
 
 `pip install keyboard`
 
